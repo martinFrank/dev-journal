@@ -7,3 +7,4 @@ Herausforderung: TS lernen -> da hat es mehrere Anläufe gebraucht
 Herausforderung: Code-Wachsum -> Misbrauch von Records und tech. Schulden
 Herausforderung: SonaQube -> immer noch viele ToDos/FixMes
 Herausforderung: schlechte Qualität bei Frontend (ins. UX) - hier muss ein schöneres design her, ggf. auch mal was malen!
+Herausforderung: Rest-Endpoint Tests (mocking & Spying)
