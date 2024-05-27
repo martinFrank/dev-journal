@@ -1,0 +1,9 @@
+
+
+Project Idle-nethack
+Herausforderung: Pipeline bauen -> github actions
+Herausforderung: DynDns-Setup (ddclient, router-setup und haproxy)
+Herausforderung: TS lernen -> da hat es mehrere Anläufe gebraucht
+Herausforderung: Code-Wachsum -> Misbrauch von Records und tech. Schulden
+Herausforderung: SonaQube -> immer noch viele ToDos/FixMes
+Herausforderung: schlechte Qualität bei Frontend (ins. UX)
