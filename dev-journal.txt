@@ -8,3 +8,6 @@ Herausforderung: Code-Wachsum -> Misbrauch von Records und tech. Schulden
 Herausforderung: SonaQube -> immer noch viele ToDos/FixMes
 Herausforderung: schlechte Qualität bei Frontend (ins. UX) - hier muss ein schöneres design her, ggf. auch mal was malen!
 Herausforderung: Rest-Endpoint Tests (mocking & Spying)
+
+
+längere Pause gemacht, reinkommen wird nicht einfach werden :-D Auf dem Programm steht: die fehlenden Parameter zu implementieren: Luck, Enchantment, Traglast, Dann soll es ein weiteres grösseres Feature geben: die Items sollen pro Level abgespeichert werden (nicht random erzeugt). Die Levels sollen generell neu gestaltet werden, es sollen komplexe Levels mit unterschiedlichen features generiert werden.
